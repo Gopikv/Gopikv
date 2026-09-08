@@ -1,0 +1,6 @@
+CustomerID,CustomerName,LoanAmount,Status,City
+1001,Customer A,50000,ACTIVE,Bengaluru
+1002,Customer B,75000,ACTIVE,Mysuru
+1003,Customer C,60000,CLOSED,Mangaluru
+1004,Customer D,90000,ACTIVE,Hubballi
+1005,Customer E,45000,ACTIVE,Belagavi
